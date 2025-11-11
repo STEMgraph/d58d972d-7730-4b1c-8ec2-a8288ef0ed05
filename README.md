@@ -1,6 +1,7 @@
 <!---
 {
   "id": "d58d972d-7730-4b1c-8ec2-a8288ef0ed05",
+  "teaches": "Understanding Cryptographic Signatures",
   "depends_on": ["e8add8e9-7a67-4b50-af89-6c1ce6558e0d"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-05-13",
